@@ -19,7 +19,7 @@ async function fetchRouteAsync() {
     try {
         // Opgave 3 - Brug async / await som erstatning af .then
         // Kald, og console.log alle vejr endpoints en af gangen
-
+        
         
     } catch (e) {
         console.error(e)

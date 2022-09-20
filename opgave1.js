@@ -14,4 +14,3 @@ const fetchRouteToJSON = (weatherRoute) => fetch(weatherRoute)
 
 // Opgave 1 - Kald fetchRoute med en route og log resultatet
 
-

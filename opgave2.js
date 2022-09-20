@@ -10,4 +10,3 @@ const fetchRoute = (weatherRoute) => fetch(weatherRoute)
 
 // Brug fetchRoute() til at kalde ‘wrongRoute’ Brug .catch til at fange og håndtere fejlen
 
-
